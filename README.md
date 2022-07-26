@@ -8,7 +8,7 @@ IMPORTANT: I do not own any image in this repository, every single image belongs
 As a DST player i want to help the community making the development of their apps easier, hope this repository helps you.
 
 
-### What this repo includes (see what has been added, fixed and updated in changelog)
+### What this repo includes (see what has been added, fixed and updated in ['changelogs' file](CHANGELOGS.md)
 
 - Survivors Big Portraits
 
