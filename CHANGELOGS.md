@@ -9,3 +9,7 @@
 - Maxwell big portraits
 
 - Walter big portraits
+
+- Warly big portraits
+
+- Webber big portraits
