@@ -19,3 +19,5 @@
 - Wes bigportraits
 
 - Wickerbottom bigportraits
+
+- Wigfrid bigportraits
