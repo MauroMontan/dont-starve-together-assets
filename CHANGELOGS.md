@@ -4,16 +4,18 @@
 
 ### added
 
-- Wanda big portraits
+- Wanda bigportraits
 
-- Maxwell big portraits
+- Maxwell bigportraits
 
-- Walter big portraits
+- Walter bigportraits
 
-- Warly big portraits
+- Warly bigportraits
 
-- Webber big portraits
+- Webber bigportraits
 
-- Wendy big portraits
+- Wendy bigportraits
 
-- Wes big portraits
+- Wes bigportraits
+
+- Wickerbottom bigportraits
