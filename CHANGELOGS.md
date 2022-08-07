@@ -2,9 +2,9 @@
 
 ## Versión 1.0
 
-### added 
+### added
 
-- Wanda big portraits 
+- Wanda big portraits
 
 - Maxwell big portraits
 
@@ -15,3 +15,5 @@
 - Webber big portraits
 
 - Wendy big portraits
+
+- Wes big portraits

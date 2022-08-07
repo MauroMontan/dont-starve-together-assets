@@ -1,12 +1,10 @@
 # Don't Starve together assets
 
-
-IMPORTANT: I do not own any image in this repository, every single image belongs to [Klei Entertainment](https://www.klei.com/). 
+IMPORTANT: I do not own any image in this repository, every single image belongs to [Klei Entertainment](https://www.klei.com/).
 
 ### Porpouse of this repository
 
 As a DST player i want to help the community making the development of their apps easier, hope this repository helps you.
-
 
 ### What this repo includes (see what has been added, fixed and updated in ['changelogs' file](CHANGELOGS.md)
 
@@ -14,9 +12,8 @@ As a DST player i want to help the community making the development of their app
 
 - more stuff later :D
 
-### Something is missing ? 
+### Something is missing ?
 
 Feel free to open an issue and tell me what is missing. But please, read changelogs before open one issue.
-
 
 > if there is any problem with it, contact me: mauroanastacio@outlook.es
