@@ -16,4 +16,4 @@ As a DST player i want to help the community making the development of their app
 
 Feel free to open an issue and tell me what is missing. But please, read changelogs before open one issue.
 
-> if there is any problem with it, contact me: mauroanastacio@outlook.es
+> if there is any problem with the usage of this repository contact me: mauroanastacio@outlook.es
