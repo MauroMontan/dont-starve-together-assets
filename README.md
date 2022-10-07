@@ -12,6 +12,11 @@ As a DST player i want to help the community providing assets and images easily 
 
 - Vignettes
 
+
+### To do 
+- sort Vignettes by collection
+
+
 ### Something is missing ?
 
 Feel free to open an issue and tell me what is missing. But please, read changelogs before open one issue.
