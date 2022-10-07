@@ -1,8 +1,9 @@
 # changelogs
 
-## Versión 1.0
 
 ### added
+
+- Vignettes
 
 - Wanda bigportraits
 

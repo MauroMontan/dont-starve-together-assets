@@ -4,13 +4,13 @@ IMPORTANT: I do not own any image in this repository, every single image belongs
 
 ### Porpouse of this repository
 
-As a DST player i want to help the community making the development of their apps easier, hope this repository helps you.
+As a DST player i want to help the community providing assets and images easily  without having to use the ktools 
 
 ### What this repo includes (see what has been added, fixed and updated in ['changelogs' file](CHANGELOGS.md)
 
 - Survivors Big Portraits
 
-- more stuff later :D
+- Vignettes
 
 ### Something is missing ?
 
