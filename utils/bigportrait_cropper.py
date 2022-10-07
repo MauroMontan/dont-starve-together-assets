@@ -14,9 +14,9 @@ print("""
 
 allowedImageExtension:list[str] = [".png",".jpg",".jpeg"]
 
-imageSize = "478x694"  
+imageSize = "511x624"  
 
-startPoint = "30+30"
+startPoint = "0+45"
 
 targetFolder = sys.argv[1]
 
@@ -28,7 +28,7 @@ for file in os.listdir(targetFolder):
         
     for allowedExt in allowedImageExtension:
         if ext == allowedExt:
-            os.system(f'convert {file} -crop {imageSize}+{startPoint} {filename}-cropped{ext}') 
+            os.system(f'convert {file} -crop {imageSize}+{startPoint} {file}') 
             print(f"croping {filename} ..........")
             time.sleep(0.7)
             print("done\n")
