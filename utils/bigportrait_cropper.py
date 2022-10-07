@@ -1,4 +1,5 @@
 import os 
+import sys
 import time
 
 print("""
@@ -17,9 +18,11 @@ imageSize = "478x694"
 
 startPoint = "30+30"
 
+targetFolder = sys.argv[1]
+
 # convert wendy_sandbox.png -crop 478x694+30+30 wndy.png
 
-for file in os.listdir():
+for file in os.listdir(targetFolder):
     
     filename,ext = os.path.splitext(file)
         
