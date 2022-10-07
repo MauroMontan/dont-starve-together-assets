@@ -2,8 +2,9 @@
 
 
 ### added
+- cookbook images
 
-- Vignettes
+- Vignettes images
 
 - Wanda bigportraits
 
