@@ -2,20 +2,17 @@ import os
 import sys
 import time
 
-
-
 allowedImageExtensions:list[str] = [".tex"]
-
 
 targetFolder:str = sys.argv[1]
 
 outputFolder:str = sys.argv[2]
 
 ktech  = """
-docker run --rm --user='ktools' \
+docker run --platform linux/amd64 --user='ktools' \
     --mount src='{targetFolder}',target='/data/',type=bind \
     dstmodders/ktools \
-    ktech""".format(targetFolder=targetFolder)
+    ktech  """.format(targetFolder=targetFolder)
 
 
 
