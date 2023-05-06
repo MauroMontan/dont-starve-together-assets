@@ -1,6 +1,13 @@
 # changelogs
 
 
+
+### 05/06/2023 
+
+- added leftover recipes assets
+
+- more details added to script converter
+
 ### added
 
 - Wx78 bigportraits
