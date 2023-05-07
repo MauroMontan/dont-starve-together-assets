@@ -1,6 +1,8 @@
 # changelogs
 
+### 05/07/2023
 
+- added playerportraits (not cropped)
 
 ### 05/06/2023 
 

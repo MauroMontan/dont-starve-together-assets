@@ -20,7 +20,7 @@ startPoint = "0+45"
 
 targetFolder = sys.argv[1]
 
-# convert wendy_sandbox.png -crop 478x694+30+30 wndy.png
+# convert wendy_sandbox.png -crop 511x624+0+45 wndy.png
 
 for file in os.listdir(targetFolder):
     
