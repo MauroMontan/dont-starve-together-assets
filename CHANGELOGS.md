@@ -4,6 +4,8 @@
 
 - added playerportraits (not cropped)
 
+- added names images
+
 ### 05/06/2023 
 
 - added leftover recipes assets
