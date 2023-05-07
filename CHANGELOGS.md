@@ -2,6 +2,8 @@
 
 ### 05/07/2023
 
+- masquerader and ice skins added
+
 - added playerportraits (not cropped)
 
 - added names images
