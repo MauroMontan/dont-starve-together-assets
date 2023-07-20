@@ -1,6 +1,12 @@
 # changelogs
 
-### 05/07/2023
+## 07/20/2023
+
+- added new lunar skins
+
+- added new shadow skins
+
+## 05/07/2023
 
 - masquerader and ice skins added
 
@@ -8,7 +14,7 @@
 
 - added names images
 
-### 05/06/2023 
+### 05/06/2023
 
 - added leftover recipes assets
 

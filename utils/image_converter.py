@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # @MauroMontan
 import os 
 import sys
