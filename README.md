@@ -1,3 +1,6 @@
+
+![repo banner](./banner.png) 
+
 # Don't Starve together assets
 
 IMPORTANT: I do not own any image in this repository, every single image belongs to [Klei Entertainment](https://www.klei.com/).
